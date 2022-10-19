@@ -1,0 +1,33 @@
+_repo: The-nameless-something_69028
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    - Fitzgerald, William
+    - Jenkins, Will F.
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: https://en.wikipedia.org/wiki/Murray_Leinster
+description: ''
+gutenberg_issued: '2022-09-22'
+identifiers:
+  gutenberg: '69028'
+language: en
+pgterms:marc905: 20220512092933fitzgerald
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Standard Magazines, Inc.,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The nameless something
+url: http://www.gutenberg.org/ebooks/69028
